@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package>
+    <metadata>
+        <id>iridium.logging</id>
+        <version>2.0.1.7071</version>
+        <authors>Philippe Leybaert</authors>
+        <owners>Philippe Leybaert</owners>
+        <licenseUrl>https://raw.githubusercontent.com/activa/iridium-logging/master/LICENSE</licenseUrl>
+        <projectUrl>http://github.com/activa/iridium-logging</projectUrl>
+        <iconUrl>http://www.iridiumdb.com/img/IconPlain64.png</iconUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>Logging library for .NET</description>
+        <tags>iridium logging</tags>
+    </metadata>
+    <files>
+        <file src="src\Iridium.Logging\bin\Release\netstandard1.0\*.dll" target="lib\netstandard1.0" />
+    </files>
+</package>
